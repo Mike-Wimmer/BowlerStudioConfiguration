@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/52e9bf6d0ea5e1fbc18e419c749d0d0b.git": [
+      "GIST: cube.groovy",
+      "1563762665092"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {
     "https://gist.github.com/52e9bf6d0ea5e1fbc18e419c749d0d0b.git:cube.groovy": [
