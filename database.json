@@ -21,8 +21,9 @@
     ]
   },
   "BowlerStudioConfigs": {
+    "firstVersion": "0.32.6",
     "fontsize": 24.0,
-    "skinBranch": "0.25.2",
+    "skinBranch": "0.32.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
