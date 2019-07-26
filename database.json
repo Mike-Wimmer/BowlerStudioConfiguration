@@ -22,10 +22,6 @@
     "https://gist.github.com/a0dd7c17144125d9d3ed7e95f61b3177.git:PoseMobileBase.groovy": [
       "https://gist.github.com/a0dd7c17144125d9d3ed7e95f61b3177.git",
       "PoseMobileBase.groovy"
-    ],
-    "https://github.com/Mike-Wimmer/greycat.git:launch.groovy": [
-      "https://github.com/Mike-Wimmer/greycat.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
