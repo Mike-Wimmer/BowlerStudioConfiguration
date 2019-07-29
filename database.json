@@ -26,6 +26,10 @@
     "https://github.com/Mike-Wimmer/greycat.git:JumpScript.groovy": [
       "https://github.com/Mike-Wimmer/greycat.git",
       "JumpScript.groovy"
+    ],
+    "https://github.com/Mike-Wimmer/greycat.git:launch.groovy": [
+      "https://github.com/Mike-Wimmer/greycat.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
